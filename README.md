@@ -2,8 +2,6 @@
 
 Hello! I am **Carlos Frederick Díaz Sánchez**, a **Senior Software Engineer** with a passion for building robust, scalable, and performance-oriented software solutions.
 
-### 🌎 Additional Skills
-
 **Languages:** Spanish (Native), English (Advanced). <br/>
 **Location:** Avila, Spain.
 
